@@ -1,5 +1,5 @@
 # Posts ReactJS
-[Demo](https://korolmariia.github.io/CourseReact-HW3/)
+[Demo](https://postsreactjs.netlify.app//)
 
 
 ## This project was bootstrapped with Create React App.

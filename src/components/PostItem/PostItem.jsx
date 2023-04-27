@@ -38,7 +38,7 @@ export default class PostItem extends PureComponent {
         />
         <img
           className="PostItem_img"
-          src="https://source.unsplash.com/random/300x300/"
+          src="https://picsum.photos/150/150"
           alt="Random"
         />
         <h3 className="PostItem_title">{title}</h3>
